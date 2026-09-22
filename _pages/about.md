@@ -11,7 +11,7 @@ profile:
   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -27,3 +27,5 @@ latest_posts:
 I am a PhD candidate in economics at the University of Illinois Urbana-Champaign (UIUC), working in econometrics with a focus on statistical inference and time-series forecasting. In both areas, my research looks beyond single summaries, such as the average effect of a policy or the one model that forecasts best on average, to what varies across outcomes and over time.
 
 I also hold a master's degree in Policy Economics from UIUC and a bachelor's degree in Financial Engineering from Hefei University of Technology.
+
+[Email](mailto:xinxuan6@illinois.edu)
