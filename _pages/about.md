@@ -29,3 +29,8 @@ I am a PhD candidate in economics at the University of Illinois Urbana-Champaign
 I also hold a master's degree in Policy Economics from UIUC and a bachelor's degree in Financial Engineering from Hefei University of Technology.
 
 Email: [xinxuan6@illinois.edu](mailto:xinxuan6@illinois.edu)
+
+
+#### Dissertation Committee
+
+Eun Yi Chung (co-chair) · Ji Hyung Lee (co-chair) · Josh Shea · Drew Creal
