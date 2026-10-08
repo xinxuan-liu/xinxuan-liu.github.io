@@ -33,4 +33,4 @@ Email: [xinxuan6@illinois.edu](mailto:xinxuan6@illinois.edu)
 
 #### Dissertation Committee
 
-Eun Yi Chung (co-chair) · Ji Hyung Lee (co-chair) · Josh Shea · Drew Creal
+Eun Yi Chung (co-chair) · Ji Hyung Lee (co-chair) · Joshua Shea · Drew Creal
